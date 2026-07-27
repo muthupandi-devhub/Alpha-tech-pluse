@@ -1,7 +1,7 @@
-import Webdevelopment from "../../assets/images/Webdevelopment.png";
-import ecommerce from "../../assets/images/e-commerce.png";
-import seooptimation from "../../assets/images/seooptimation.png";
-import digitalmarketing from "../../assets/images/digitalmarketing.jpg";
+import Webdevelopment from "../../assets/Images/Webdevelopment.png";
+import ecommerce from "../../assets/Images/e-commerce.png";
+import seooptimation from "../../assets/Images/seooptimation.png";
+import digitalmarketing from "../../assets/Images/digitalmarketing.jpg";
 
 
 export const portfolioProjects = [
